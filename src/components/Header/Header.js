@@ -1,11 +1,7 @@
 import Link from 'next/link';
 import React from 'react';
 import { AiFillGithub, AiFillFacebook, AiFillLinkedin } from 'react-icons/ai';
-import Image from 'next/image'
-
 import { Container, Div1, Div2, Div3, NavLink, SocialIcons } from './HeaderStyles';
-
-import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import Button from '../../styles/GlobalComponents/Button';
 import { Img, TopSectionContainer } from '../Hero/HeroStyles';
 
@@ -16,7 +12,7 @@ const Header = () =>  (
     <Div1>
       <Link href="/">
         <a style={{ display: 'flex', alignItems: 'center', color:"white" }}>
-          <Image src ='/favicon.png' width={55} height={55} /> <span>My-Portfolio</span>
+          <Img src ='/favicon.png' width={55} height={55} /> <span>My-Portfolio</span>
         </a>
       </Link>
     </Div1>
