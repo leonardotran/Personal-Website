@@ -2,7 +2,7 @@ import React from 'react';
 import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
-
+import {Imgs} from './TechnologiesStyles';
 const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider divider />
@@ -13,7 +13,7 @@ const Technologies = () =>  (
     </SectionText>
     <List>
       <ListItem>
-        <picture>
+      <picture>
           <DiReact size="3rem" />
         </picture>
         <ListContainer>

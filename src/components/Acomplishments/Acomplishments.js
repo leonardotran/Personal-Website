@@ -5,8 +5,8 @@ import { Box, Boxes, BoxNum, BoxText, IconContainer } from './AcomplishmentsStyl
 
 const data = [
   { number: 1, text: 'Startup'},
-  { number: 2, text: 'Vietnam National Basketball Gold Medalist', },
-  { number: 50, text: 'Students', },
+  { number: 1, text: 'Internship', },
+  { number: 50, text: 'Students Tutored', },
   { number: 14, text: 'Projects on Github', }
 ];
 
@@ -16,7 +16,7 @@ const Acomplishments = () => (
     <Boxes>
       {data.map((card, index) => (
         <Box key={index}>
-          <BoxNum>{`${card.number}`}</BoxNum>
+          <BoxNum>{`🌟 ${card.number}`}</BoxNum>
           <BoxText>{card.text}</BoxText>
         </Box>
       ))}
