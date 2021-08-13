@@ -1,8 +1,7 @@
 import React from 'react';
 
 import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
-import { Box, Boxes, BoxNum, BoxText, IconContainer, Icons } from './AcomplishmentsStyles';
-import {GiFlexibleStar}  from 'react-icons/ai';
+import { Box, Boxes, BoxNum, BoxText, IconContainer } from './AcomplishmentsStyles';
 
 const data = [
   { number: 1, text: 'Startup'},
