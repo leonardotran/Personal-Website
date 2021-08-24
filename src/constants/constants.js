@@ -11,10 +11,10 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'A-T-E-X (Event Website)',
+    title: 'A-T-E-X',
     description:"A playground/event organizer web application for environmental lovers. It also has an AI built-in to help sorting garbages  ",
     image: '/images/2.png',
-    tags: ['React', 'JavaScript', 'MongoDB', 'Tensorflow', 'Firebase' ],
+    tags: ['React', 'MongoDB', 'Tensorflow', 'Firebase' ],
     source: 'https://github.com/leonardotran/EventWebsite',
     visit: 'https://github.com/leonardotran/EventWebsite',
     id: 1,
