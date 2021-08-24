@@ -29,6 +29,7 @@ export const Img = styled.img`
   margin-left: auto;
   margin-right: auto;
   max-height: 550px;
+  image-resolution: 300dpi;
   transition: 1s;
   &:hover {
 

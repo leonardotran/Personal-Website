@@ -7,7 +7,7 @@ import { Img, LeftSection, TopSectionContainer } from './HeroStyles';
 
 const Hero = (props) => (
   <>
-    <Section row nopadding>
+    <Section row nopadding id="resume">
       <LeftSection>
         <SectionTitle main center>
           Loc Tran's Portfolio

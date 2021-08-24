@@ -12,11 +12,16 @@ const Header = () =>  (
     <Div1>
       <Link href="/">
         <a style={{ display: 'flex', alignItems: 'center', color:"white" }}>
-          <Img src ='/favicon.png' width={55} height={55} /> <span>My-Portfolio</span>
+          <Img src ='/favicon.png' width={55} height={55} /> <span>LocTran</span>
         </a>
       </Link>
     </Div1>
     <Div2>
+    <li>
+        <Link href="#resume">
+          <NavLink>My Resume</NavLink>
+        </Link>
+      </li>  
       <li>
         <Link href="#projects">
           <NavLink>Projects</NavLink>
@@ -31,7 +36,8 @@ const Header = () =>  (
         <Link href="#about">
           <NavLink>About</NavLink>
         </Link>
-      </li>        
+      </li>       
+        
     </Div2>
       <Div3>
         <SocialIcons href="https://github.com/leonardotran">
