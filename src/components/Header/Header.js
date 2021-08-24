@@ -45,7 +45,7 @@ const Header = () =>  (
         </SocialIcons>
       </Div3>
     </Container>
-    <Img src="./images/profile1.png" alt="profile" />
+    <Img src="./images/profile2.jpg" alt="profile" />
 </TopSectionContainer>
         
 );
