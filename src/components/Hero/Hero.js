@@ -13,9 +13,8 @@ const Hero = (props) => (
           Loc Tran's Portfolio
         </SectionTitle>
         <SectionText> 
-        I have experience with Python, Java, JavaScript and modern tech stack (React, NodeJs, MongoDB/Firebase). I am a really curious and passionate software engineer. 
-        I never think there is only one solution for a problem and there is no problem without a solution, the matter is how fast and efficiently we can reach a solution. 
-        I am always interested in learning from my own experiment as well as from my colleagues.
+        I have experience with Python, Java, JavaScript and modern tech stack. I am a really curious and passionate software engineer. 
+        I never think there is only one solution for a problem and there is no problem without a solution 
         I love being challenged as well as overcoming challenges. Through them, I can harden my skills at the same time utilized them for the products I am working on. 
         Whether it is small or big, I put all my heart into the work. 
         Even though there is no one without mistakes, I learned from them and remind myself to do better and better. 

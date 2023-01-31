@@ -20,12 +20,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'VNxPlore',
-    description: "A Responsive Tour & Travel Agency Website (Frontend only)",
+    title: 'MyDropBox',
+    description: "An end-to-end encrypted file sharing system",
       image: '/images/3.png',
-      tags: ['React', 'Gatsby', 'GraphQL'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+      tags: ['Golang'],
+    source: 'https://github.com/leonardotran/My-Drop-Box',
+    visit: 'https://github.com/leonardotran/My-Drop-Box',
     id: 2,
   },
   {
@@ -42,7 +42,7 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2017, text: 'Started my journey in the US from Vietnam as Business Major. Took my first programming class and decided to change major', },
-  { year: 2018, text: 'Teaching basic Python, C++ for Highschooler at public library and private tutoring', },
+  { year: 2018, text: 'Teaching basic Python, C++ for Higlshschooler at public library and private tutoring', },
   { year: 2019, text: 'Started learning web/mobile development', },
   { year: 2020, text: 'Got accepted in UC Berkeley', },
   { year: 2021, text: 'Getting ready for the real world :)', },
