@@ -16,7 +16,7 @@ const Hero = (props) => (
         Full "Snack" Developer with hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages. 
       Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack Developer.     
         </SectionText>
-        <Button onClick={() => window.location = "https://drive.google.com/file/d/1Xk_ANley5PnFC4bOdqXwnYWKGuntjMWg/view?usp=sharing"}>My Resume</Button>
+        <Button onClick={() => window.location = "https://docs.google.com/document/d/1EOQSOZ9lq-iys6eJN4B-qjZSBsSMTZqxreIsWX5KViY/edit?usp=sharing"}>My Resume</Button>
       </LeftSection>
     </Section>
     

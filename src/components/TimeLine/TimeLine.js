@@ -46,10 +46,11 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      Loc Tran is a bad student. He spent his time on his silly projects, startup ideas instead of focusing on lectures. Loc is also a bad influence and of course, a terrible leader. 
-      He keeps inviting his friends to do Leetcode and join Hackathons while they are immersed with class projects and midterms to make sure their grades will be lower than his. 
-      Not only that, he is mean and tends to lure people into hiring him as a private tutor at an unreasonable price. 
-      Unless he is fed with See’s chocolate, he will not help his friends. That is why he is infamous at Berkeley, although he is handsome.
+      Loc Tran is a bad student. He spent his time on his projects, startup ideas instead of building his relationship. 
+      Loc is also an evil leader. He keeps inviting his friends to do Leetcode and join Hackathons 
+      while they are immersed with class projects and midterms to make sure their grades will be lower than his. 
+      Not only that, he is mean and tends to lure people to join his web development club. 
+      Unless he is fed with See’s chocolate, he won't stop trolling his friends. That is why he is infamous at Berkeley, although he is handsome.
       However, he is definitely worth checking out because someone that bad is kind of a rare find.      
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
