@@ -41,10 +41,10 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey in the US from Vietnam as Business Major. Took my first programming class and decided to change major', },
   { year: 2018, text: 'Teaching basic Python, C++ for Higlshschooler at public library and private tutoring', },
   { year: 2019, text: 'Started learning web/mobile development', },
   { year: 2020, text: 'Got accepted in UC Berkeley', },
   { year: 2021, text: 'Getting ready for the real world :)', },
   { year: 2022, text: 'Graduated from UC Berkeley', },
+  { year: 2023, text: 'Got my third internship, get ready for grad school', },
 ];
