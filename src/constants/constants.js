@@ -47,4 +47,6 @@ export const TimeLineData = [
   { year: 2021, text: 'Getting ready for the real world :)', },
   { year: 2022, text: 'Graduated from UC Berkeley', },
   { year: 2023, text: 'Got my third internship, get ready for grad school', },
+  { year: 2024, text: 'Pursuing Master degree at University of Cincinnati', },
+
 ];
