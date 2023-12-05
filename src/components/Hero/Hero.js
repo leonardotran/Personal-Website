@@ -13,12 +13,12 @@ const Hero = (props) => (
           Loc Tran's Portfolio
         </SectionTitle>
         <SectionText> 
-        I have experience with Python, Java, JavaScript and modern tech stack. I am a really curious and passionate software engineer. 
-        I never think there is only one solution for a problem and there is no problem without a solution 
-        I love being challenged as well as overcoming challenges. Through them, I can harden my skills at the same time utilized them for the products I am working on. 
-        Whether it is small or big, I put all my heart into the work. 
-        Even though there is no one without mistakes, I learned from them and remind myself to do better and better. 
-        My current goal in my career is to learn as much as I can and train myself to become the best Software Engineer possible.
+        
+          Loc Tran has extensive experience with Python, Java, JavaScript, and a modern tech stack. He is a remarkably curious and passionate software engineer who firmly believes in the diversity of solutions for any problem, embracing challenges as opportunities for skill enhancement.
+
+          In his approach to work, Loc thrives on being challenged and values the learning that comes with overcoming obstacles. He leverages these experiences to fortify his skills while contributing to the development of the products he's engaged with. Regardless of the project's size, Loc dedicates himself wholeheartedly to the task at hand.
+
+          Recognizing the inevitability of mistakes, Loc views them as learning opportunities. He embraces a mindset of continuous improvement, consistently reminding himself to strive for excellence. In his current career journey, Loc is dedicated to absorbing knowledge and honing his abilities, aspiring to evolve into the best possible Software Engineer.
      
         </SectionText>
         <Button onClick={() => window.location = "https://drive.google.com/file/d/10nnogRArf0pcoxyjx9qfeKFVQkYwy4Ey/view?usp=sharing"}>My Resume</Button>
