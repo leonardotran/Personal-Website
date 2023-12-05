@@ -21,7 +21,7 @@ const Hero = (props) => (
         My current goal in my career is to learn as much as I can and train myself to become the best Software Engineer possible.
      
         </SectionText>
-        <Button onClick={() => window.location = "https://drive.google.com/file/d/1gbedHFck5OpTYRFm7zy2l5sVBXpcQaiK/view?usp=sharing"}>My Resume</Button>
+        <Button onClick={() => window.location = "https://drive.google.com/file/d/10nnogRArf0pcoxyjx9qfeKFVQkYwy4Ey/view?usp=sharing"}>My Resume</Button>
       </LeftSection>
     </Section>
     

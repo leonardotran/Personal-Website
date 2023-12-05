@@ -46,12 +46,11 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      Loc Tran is a bad student. He spent his time on his projects, startup ideas instead of building his relationship. 
-      Loc is also an evil leader. He keeps inviting his friends to do Leetcode and join Hackathons 
-      while they are immersed with class projects and midterms to make sure their grades will be lower than his. 
-      Not only that, he is mean and tends to lure people to join his web development club. 
-      Unless he is fed with See’s chocolate, he won't stop trolling his friends. That is why he is infamous at Berkeley, although he is handsome.
-      However, he is definitely worth checking out because someone that bad is kind of a rare find.      
+      I'm Loc Tran, a UC Berkeley graduate with a passion for coding and problem-solving. Through coding competitions and hackathons, I honed my skills, earning a degree while exploring innovative projects.
+      
+      With three software engineering internships, I gained proficiency in front-end and back-end web and mobile app technologies. As Vice President of the Vietnamese Student Association, I developed valuable leadership experience in a diverse team environment.
+
+      Balancing technical and leadership roles, I actively pursue personal growth and creativity. My involvement in a web development club showcases my commitment to fostering a supportive community. Beyond my professional pursuits, my playful nature, and love for See's chocolate add a light-hearted touch to my interactions.    
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
