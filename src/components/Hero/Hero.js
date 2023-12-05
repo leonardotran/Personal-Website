@@ -21,7 +21,7 @@ const Hero = (props) => (
           Recognizing the inevitability of mistakes, Loc views them as learning opportunities. He embraces a mindset of continuous improvement, consistently reminding himself to strive for excellence. In his current career journey, Loc is dedicated to absorbing knowledge and honing his abilities, aspiring to evolve into the best possible Software Engineer.
      
         </SectionText>
-        <Button onClick={() => window.location = "https://drive.google.com/file/d/10nnogRArf0pcoxyjx9qfeKFVQkYwy4Ey/view?usp=sharing"}>My Resume</Button>
+        <Button onClick={() => window.location = "https://drive.google.com/file/d/1mXM_02yXsEo8HgEu_6LtDBwanpzuRQgq/view?usp=sharing"}>My Resume</Button>
       </LeftSection>
     </Section>
     
