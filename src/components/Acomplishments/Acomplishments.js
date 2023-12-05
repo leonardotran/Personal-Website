@@ -6,7 +6,7 @@ import { Box, Boxes, BoxNum, BoxText, IconContainer } from './AcomplishmentsStyl
 const data = [
   { number: 1, text: 'Startup'},
   { number: 3, text: 'Internships', },
-  { number: 200+, text: 'Students Tutored', },
+  { number: 200, text: 'Students Tutored', },
   { number: 28, text: 'Projects on Github', }
 ];
 
