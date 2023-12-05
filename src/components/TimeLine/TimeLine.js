@@ -46,11 +46,11 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I'm Loc Tran, a UC Berkeley graduate with a passion for coding and problem-solving. Through coding competitions and hackathons, I honed my skills, earning a degree while exploring innovative projects.
-      
-      With three software engineering internships, I gained proficiency in front-end and back-end web and mobile app technologies. As Vice President of the Vietnamese Student Association, I developed valuable leadership experience in a diverse team environment.
+      Loc Tran is a UC Berkeley graduate with a passion for coding and problem-solving. Through coding competitions and hackathons, he honed his skills, earning a degree while exploring innovative projects.
 
-      Balancing technical and leadership roles, I actively pursue personal growth and creativity. My involvement in a web development club showcases my commitment to fostering a supportive community. Beyond my professional pursuits, my playful nature, and love for See's chocolate add a light-hearted touch to my interactions.    
+      Having completed three software engineering internships, Loc has acquired proficiency in front-end and back-end web and mobile app technologies. His tenure as Vice President of the Vietnamese Student Association provided him with invaluable leadership experience within a diverse team environment.
+
+      Balancing technical expertise with leadership responsibilities, Loc actively pursues personal growth and creativity. His commitment to community-building is evident through his involvement in a web development club. Beyond his professional endeavors, Loc's playful nature, along with his fondness for See's chocolate, adds a delightful and light-hearted touch to his interactions."
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
